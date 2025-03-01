@@ -1,5 +1,5 @@
 //String methods 
-let name="Muhammad Attaullah";
+let name="Tehreem Qayyum";
 //length of string: length property
 console.log(name.length);
 //toUppercase and toLowercase: toUpperCase() and toLowerCase() methods
