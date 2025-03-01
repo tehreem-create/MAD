@@ -34,11 +34,11 @@ console.log(name.concat(" is a coder"));
 //trim: trim() method removes whitespace from both ends of a string.
 console.log(name.trim());
 //includess: includes() method returns true if a string contains a specified value.
-console.log(name.includes("John"));
+console.log(name.includes("Tehmi"));
 //startsWith: startsWith() method returns true if a string begins with a specified value.
-console.log(name.startsWith("John"));
+console.log(name.startsWith("Tehmi"));
 //endsWith: endsWith() method returns true if a string ends with a specified value.
-console.log(name.endsWith("Doe"));
+console.log(name.endsWith("Tehmi"));
 //charsCodeAt: charCodeAt() method returns the Unicode of the character at the specified index in a string.
 console.log(name.charCodeAt(3));
 console.log(name.charCodeAt(3).toString(16));
@@ -51,8 +51,8 @@ console.log(name.padStart(10,"*"));
 //padEnd: padEnd() method pads a string with another string.
 console.log(name.padEnd(10,"*"));
 //match: match() method searches a string for a match against a regular expression, and returns the matches, as an Array object.
-console.log(name.match("Muhammad Attaullah"));
+console.log(name.match("Tehreem Qayyum"));
 //matchAll: matchAll() method searches a string for a match against a regular expression, and returns the matches, as an Array object.
-console.log(name.matchAll("John"));
+console.log(name.matchAll("Tehreem"));
 //typeof: typeof operator returns the type of a variable or an expression.
 console.log(name.typeof);
